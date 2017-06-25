@@ -1,0 +1,293 @@
+/* Cyan */
+
+.material_cyan_50 {
+    background-color: #E0F7FA ;
+}
+
+.material_cyan_100 {
+    background-color: #B2EBF2 ;
+}
+
+.material_cyan_200 {
+    background-color: #80DEEA ;
+}
+
+.material_cyan_300 {
+    background-color: #4DD0E1 ;
+}
+
+.material_cyan_400 {
+    background-color: #26C6DA ;
+}
+
+.material_cyan_500 {
+    background-color: #00BCD4 ;
+}
+
+.material_cyan_600 {
+    background-color: #00ACC1 ;
+}
+
+.material_cyan_700 {
+    background-color: #0097A7 ;
+}
+
+.material_cyan_800 {
+    background-color: #00838F ;
+}
+
+.material_cyan_900 {
+    background-color: #006064 ;
+}
+
+/* Green */
+
+.material_green_50 {
+    background-color: #E8F5E9 ;
+}
+
+.material_green_100 {
+    background-color: #C8E6C9 ;
+}
+
+.material_green_200 {
+    background-color: #A5D6A7 ;
+}
+
+.material_green_300 {
+    background-color: #81C784 ;
+}
+
+.material_green_400 {
+    background-color: #66BB6A ;
+}
+
+.material_green_500 {
+    background-color: #4CAF50 ;
+}
+
+.material_green_600 {
+    background-color: #43A047 ;
+}
+
+.material_green_700 {
+    background-color: #388E3C ;
+}
+
+.material_green_800 {
+    background-color: #2E7D32 ;
+}
+
+.material_cyan_900 {
+    background-color: #1B5E20 ;
+}
+
+/* Blue */
+
+.material_blue_50 {
+    background-color: #E3F2FD ;
+}
+
+.material_blue_100 {
+    background-color: #BBDEFB ;
+}
+
+.material_blue_200 {
+    background-color: #90CAF9 ;
+}
+
+.material_blue_300 {
+    background-color: #64B5F6 ;
+}
+
+.material_blue_400 {
+    background-color: #42A5F5 ;
+}
+
+.material_blue_500 {
+    background-color: #2196F3 ;
+}
+
+.material_blue_600 {
+    background-color: #1E88E5 ;
+}
+
+.material_blue_700 {
+    background-color: #1976D2 ;
+}
+
+.material_blue_800 {
+    background-color: #1565C0 ;
+}
+
+.material_blue_900 {
+    background-color: #0D47A1 ;
+}
+
+/* Grey */
+
+.material_grey_50 {
+    background-color: #FAFAFA ;
+}
+
+.material_grey_100 {
+    background-color: #F5F5F5 ;
+}
+
+.material_grey_200 {
+    background-color: #EEEEEE ;
+}
+
+.material_grey_300 {
+    background-color: #E0E0E0 ;
+}
+
+.material_grey_400 {
+    background-color: #BDBDBD ;
+}
+
+.material_grey_500 {
+    background-color: #9E9E9E ;
+}
+
+.material_grey_600 {
+    background-color: #757575 ;
+}
+
+.material_grey_700 {
+    background-color: #616161 ;
+}
+
+.material_grey_800 {
+    background-color: #424242 ;
+}
+
+.material_grey_900 {
+    background-color: #212121 ;
+}
+
+/* Orange */
+
+.material_orange_50 {
+    background-color: #FFF3E0 ;
+}
+
+.material_orange_100 {
+    background-color: #FFE0B2 ;
+}
+
+.material_orange_200 {
+    background-color: #FFCC80 ;
+}
+
+.material_orange_300 {
+    background-color: #FFB74D ;
+}
+
+.material_orange_400 {
+    background-color: #FFA726 ;
+}
+
+.material_orange_500 {
+    background-color: #FF9800 ;
+}
+
+.material_orange_600 {
+    background-color: #FB8C00 ;
+}
+
+.material_orange_700 {
+    background-color: #F57C00 ;
+}
+
+.material_orange_800 {
+    background-color: #EF6C00 ;
+}
+
+.material_orange_900 {
+    background-color: #E65100 ;
+}
+
+/* Amber */
+
+.material_amber_50 {
+    background-color: #FFF8E1 ;
+}
+
+.material_amber_100 {
+    background-color: #FFECB3 ;
+}
+
+.material_amber_200 {
+    background-color: #FFE082 ;
+}
+
+.material_amber_300 {
+    background-color: #FFD54F ;
+}
+
+.material_amber_400 {
+    background-color: #FFCA28 ;
+}
+
+.material_amber_500 {
+    background-color: #FFC107 ;
+}
+
+.material_amber_600 {
+    background-color: #FFB300 ;
+}
+
+.material_amber_700 {
+    background-color: #FFA000 ;
+}
+
+.material_amber_800 {
+    background-color: #FF8F00 ;
+}
+
+.material_amber_900 {
+    background-color: #FF6F00 ;
+}
+
+/* Red */
+
+.material_red_50 {
+    background-color: #FFEBEE ;
+}
+
+.material_red_100 {
+    background-color: #FFCDD2 ;
+}
+
+.material_red_200 {
+    background-color: #EF9A9A ;
+}
+
+.material_red_300 {
+    background-color: #E57373 ;
+}
+
+.material_red_400 {
+    background-color: #EF5350 ;
+}
+
+.material_red_500 {
+    background-color: #F44336 ;
+}
+
+.material_red_600 {
+    background-color: #E53935 ;
+}
+
+.material_red_700 {
+    background-color: #D32F2F ;
+}
+
+.material_red_800 {
+    background-color: #C62828 ;
+}
+
+.material_red_900 {
+    background-color: #B71C1C ;
+}
